@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "domain": "saksham.com",
+      "port": 3000,
+      "https": true
+    }
+  ]
+}
